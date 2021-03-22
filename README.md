@@ -1,0 +1,6 @@
+- 🔭 I’m currently working on @GreenV - Chatmisc
+- 🌱 I’m currently learning the programming language "C"
+- 💬 I’m currently 15 years old
+- 📫 How to reach me: plugdev@outlook.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I have a dog. His name is Spike! <3
