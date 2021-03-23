@@ -22,5 +22,6 @@ My strongs are:<br>
 <br>
 My weaknesses are:<br>
 • Too much optimism<br>
-
+<br>
+<h2>Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=plugdev-class&&show_icons=true&title_color=ffffff&icon_color=b22222&text_color=daf7dc&bg_color=151515" />
