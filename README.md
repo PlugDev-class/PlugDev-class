@@ -1,4 +1,4 @@
-<h1>Some informations about me</h1>
+<h1>Some informations about me/myself</h1>
 🔭 I’m currently working on @BusyCloud<br>
 🌱 I’m currently learning the programming language "C"<br>
 💬 I’m currently 15 years old<br>
@@ -7,8 +7,8 @@
 ⚡ Fun fact: I have a dog. His name is Spike! <3<br>
 
 <h1>Active teams</h1>
-Currently I'm only in the lovely team PeaxeMC<br>
-You want me in your team? Ask in my emails! plugdev@outlook.com<br>
+Currently I'm only in the lovely team FroschWache.de<br>
+You want me in your team? Ask in my mails! plugdev@outlook.com<br>
 <br>
 <h1>Everything else</h1>
 My strongs are:<br>
@@ -18,10 +18,11 @@ My strongs are:<br>
 • Adaptability<br>
 • Ability to work in a team<br>
 • Objectivity<br>
-• Trying to code multilingual<br>
+• Trying to code multilingual (if necessary)<br>
+• My main language: German, my main devlanguage: Java<br>
 <br>
 My weaknesses are:<br>
 • Too much optimism<br>
 <br>
 <h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=plugdev-class&&show_icons=true&title_color=ffffff&icon_color=b22222&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=plugdev-class&&show_icons=true&title_color=ffffff&icon_color=b22222&text_color=daf7dc&bg_color=151515"/>
