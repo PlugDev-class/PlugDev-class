@@ -7,7 +7,7 @@
 ⚡ Fun fact: I have a dog. His name is Spike! <3<br>
 
 <h1>Active teams</h1>
-Currently I'm only in the lovely team -> No Team <-<br>
+Currently I'm only in the lovely team -> VenetyMC <-<br>
 You want me in your team? Ask in my mails! plugdev@outlook.com<br>
 <br>
 <h1>Everything else</h1>
