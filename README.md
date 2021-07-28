@@ -26,7 +26,7 @@ My weaknesses are:<br>
 <br>
 <h2>Team-History</h2>
 [GER] VenetyMC | 27.07.2021 - present<br>
-[GER] PeaxeMC | 23.10.2021 - present<br>
+[GER] PeaxeMC | 23.10.2020 - present<br>
 [GER] PlayTheSucht | 18.02.2021 - 10.04.2021<br>
 [GER] Free4ever | 19.08.2020 - 26.08.2020<br>
 [GER] FeePlayMC-genV5 | 14.06.2020 - 19.09.2020<br>
