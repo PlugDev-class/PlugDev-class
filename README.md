@@ -7,7 +7,7 @@
 ⚡ Fun fact: I have a dog. His name is Spike! <3<br>
 
 <h1>Active teams</h1>
-Currently I'm only in the lovely team -> VenetyMC <-<br>
+Currently I'm only in the lovely team -> Quatulo.NET, VenetyMC <-<br>
 You want me in your team? Ask in my mails! plugdev@outlook.com<br>
 <br>
 <h1>Everything else</h1>
@@ -25,6 +25,7 @@ My weaknesses are:<br>
 • Too much optimism<br>
 <br>
 <h2>Team-History</h2>
+[GER] Quatulo.NET | 04.08.2021 - present<br>
 [GER] VenetyMC | 27.07.2021 - present<br>
 [GER] PeaxeMC | 23.10.2020 - present<br>
 [GER] PlayTheSucht | 18.02.2021 - 10.04.2021<br>
