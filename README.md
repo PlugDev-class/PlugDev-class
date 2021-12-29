@@ -11,7 +11,7 @@ Currently I'm only in the lovely team -> PeaxeMC.NET <-<br>
 You want me in your team? Ask in my mails! plugdev@outlook.com<br>
 <br>
 <h1>Everything else</h1>
-My strongs are:<br>
+My strengths are:<br>
 • Politeness || Courtesy<br>
 • Engagement<br>
 • Honesty<br>
@@ -25,7 +25,8 @@ My weaknesses are:<br>
 • Too much optimism<br>
 <br>
 <h2>Team-History</h2>
-[GER] PeaxeMC | 23.10.2020 - present<br>
+[GER] SuchtBunker | 29.12.2021 - present<br>
+[GER] PeaxeMC | 23.10.2020 - 28.11.2021<br>
 [GER] Quatulo.NET | 04.08.2021 - 15.09.2021<br>
 [GER] VenetyMC | 27.07.2021 - 15.09.2021<br>
 [GER] PlayTheSucht | 18.02.2021 - 10.04.2021<br>
