@@ -3,7 +3,7 @@
 🌱 I’m currently learning the programming language "C"<br>
 💬 I’m currently 16 years old - Birthday at 10th November<br>
 📫 How to reach me: plugdev@outlook.com<br>
-😄 Pronouns: He<br>
+😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I have a dog. His name is Spike! <3<br>
 
 <h1>Active teams</h1>
