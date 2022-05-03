@@ -1,3 +1,8 @@
+<h1>Some informations outdated: check out my (german-only) Portfolio</h1>
+
+
+
+
 <h1>Some informations about me/myself</h1>
 🔭 I’m currently working on @BusyCloud<br>
 🌱 I’m currently learning the programming language "C"<br>
