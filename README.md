@@ -8,7 +8,7 @@
 🌱 I’m currently learning for school :c<br>
 💬 I’m currently 16 years old - Birthday at 10th Nov 2005<br>
 📫 How to reach me: plugdev@outlook.com<br>
-📫 Another way to reach me (nearly instantly): ts.plugdev.de  
+📫 Another way to reach me (nearly instantly): ts.plugdev.de<br>
 😄 Pronouns: He/Him<br>
 
 <h1>Active teams</h1>
