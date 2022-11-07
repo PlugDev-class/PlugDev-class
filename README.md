@@ -1,18 +1,18 @@
-<h1>Some informations outdated: check out my (german-only) Portfolio</h1>
+<h1>Some informations aren't correct anymore, please check out my (german-only) site to see something new ^^ (https://plugdev.me)</h1>
 <h2>https://plugdev.me - Portfolio <GERMAN ONLY></h2>
 
 
 
-<h1>Some informations about me/myself</h1>
-🔭 I’m currently working on @BusyCloud<br>
-🌱 I’m currently learning the programming language "C"<br>
-💬 I’m currently 16 years old - Birthday at 10th November<br>
+<h1>Some informations about myself</h1>
+🔭 I’m currently working on @???<br>
+🌱 I’m currently learning for school :c<br>
+💬 I’m currently 16 years old - Birthday at 10th Nov 2005<br>
 📫 How to reach me: plugdev@outlook.com<br>
+📫 Another way to reach me (nearly instantly): ts.plugdev.de  
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I have a dog. His name is Spike! <3<br>
 
 <h1>Active teams</h1>
-Currently I'm only in the lovely team -> SuchtBunker <-<br>
+I'm only in the lovely team -> PlugDevDE <-<br>
 You want me in your team? Ask in my mails! plugdev@outlook.com<br>
 <br>
 <h1>Everything else</h1>
@@ -24,7 +24,8 @@ My strengths are:<br>
 • Ability to work in a team<br>
 • Objectivity<br>
 • Trying to code multilingual (if necessary)<br>
-• My main language: German, my main devlanguage: Java<br>
+• My main spoken language: german
+• My main programming language: java<br>
 <br>
 My weaknesses are:<br>
 • Too much optimism<br>
