@@ -6,7 +6,7 @@
 <h1>Some informations about myself</h1>
 🔭 I’m currently working on @???<br>
 🌱 I’m currently learning for school :c<br>
-💬 I’m currently 1/ years old - Birthday at 10th Nov 2005<br>
+💬 I’m currently 17 years old - Birthday at 10th Nov 2005<br>
 📫 How to reach me: plugdev@outlook.com<br>
 📫 Another way to reach me (nearly instantly): ts.plugdev.de<br>
 😄 Pronouns: He/Him<br>
