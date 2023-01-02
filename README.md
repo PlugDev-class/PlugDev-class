@@ -5,7 +5,7 @@
 
 <h1>Some informations about myself</h1>
 🔭 I’m currently working on @???<br>
-🌱 I’m currently learning for school :c<br>
+🌱 I’m currently learning russian and some school stuff ^^<br>
 💬 I’m currently 17 years old - Birthday at 10th Nov 2005<br>
 📫 How to reach me: plugdev@outlook.com<br>
 📫 Another way to reach me (nearly instantly): ts.plugdev.de<br>
@@ -31,7 +31,8 @@ My weaknesses are:<br>
 • Too much optimism<br>
 <br>
 <h2>Team-History</h2>
-[GER] SuchtBunker | 15.12.2021 - present<br>
+[GER/ENG] PlugDevDE | 08.09.2022 - present<br>
+[GER] SuchtBunker | 15.12.2021 - 08.09.2022<br>
 [GER] PeaxeMC | 23.10.2020 - 28.11.2021<br>
 [GER] Quatulo.NET | 04.08.2021 - 15.09.2021<br>
 [GER] VenetyMC | 27.07.2021 - 15.09.2021<br>
